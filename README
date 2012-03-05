@@ -1,1 +1,17 @@
-JWhy Lightweight Bukkit Repack 
+JWhy Lightweight Bukkit Repack
+
+
+Usage:
+	1. 	Download the Repack: http://bit.ly/wxebx7
+	2. 	Unzip the Repack zip to a folder of your choice
+	3. 	Open that extracted folder and doubleclick 'update.bukkit.bat'
+	4. 	Wait for the progressbar to reach 100% and press <Enter>.
+		The 'Installation' is complete.
+	5. 	Doubleclick a start.xyz.bat (xyz is low, normal or high, 
+		depending on how 'good' your computer is)
+
+
+start.xyz.bat:
+	Low.		Starting with 512MB, limit at 1GB
+	Normal.	Starting with 1GB, limit at 2GB
+	High.		Starting with 1GB, limit at 4GB
