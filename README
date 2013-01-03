@@ -12,6 +12,6 @@ Usage:
 
 
 start.<...>.bat:
-    Low:        Starting with 512MB, limit at 1GB
+   	Low:        Starting with 512MB, limit at 1GB
 	Normal:	    Starting with 1GB, limit at 2GB
 	High:       Starting with 1GB, limit at 4GB
