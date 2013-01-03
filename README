@@ -11,7 +11,7 @@ Usage:
 		depending on how 'good' your computer is)
 
 
-start.xyz.bat:
-	Low.		Starting with 512MB, limit at 1GB
-	Normal.	Starting with 1GB, limit at 2GB
-	High.		Starting with 1GB, limit at 4GB
+start.<...>.bat:
+    Low:        Starting with 512MB, limit at 1GB
+	Normal:	    Starting with 1GB, limit at 2GB
+	High:       Starting with 1GB, limit at 4GB
